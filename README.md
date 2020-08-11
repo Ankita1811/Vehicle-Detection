@@ -1,1 +1,1 @@
-The aim of this project is to detect the vehicles in a dash camera images. The implementation of the project is in the file Vehicle_detection.ipynb.
+The aim is to build a detection system for a self-driven car. The camera on the hood takes pictures of the road ahead every few seconds for a safe ride, avoiding obstacles.
